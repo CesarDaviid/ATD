@@ -49,8 +49,8 @@ el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena.
 El equipo CSR tendra accesos a los servidores de Correo
 El equipo CSR 
 *Performance
-*Seguridad
-*Usabilidad
+*Seguridad se debe aumentar los protocolos web
+*Usabilidad no tiene afectación 
 *Escalabilidad
   Dependencia a modor de DB
   Asociado a la demanda del negocio
