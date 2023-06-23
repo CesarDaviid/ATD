@@ -18,8 +18,7 @@ La organizacion tiene la necesidad de consultar logs a los servidores de correo 
 
 ## Context
 
-Cuando un cliente tiene un incidente llama a la mesa de 
-
+El sistema Customer Support Portal (CSP) es un proveedor de servicios de hosting para emails, en el cual los usuarios pueden alquilar servidores de email. Cuando un usuario tiene un problema (por ej., no recibe emails), puede llamar al área de Atención al Cliente para que lo ayude a diagnosticar el problema. Uno de los puntos de venta de la empresa son los Representantes de Servicio al Cliente (CSR), que son personal técnico abocado a realizar soporte al cliente.
 
 
 ## Consequences
