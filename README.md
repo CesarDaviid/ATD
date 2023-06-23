@@ -12,6 +12,10 @@ La organizacion tiene la necesidad de consultar logs a los servidores de correo 
 
 Se determino que el tipo de acceso se realizaria de forma directa a los servidores mediante ssh.
 
+### Forma de Consulta
+
+Se debe realizar consultas por consola para realizar busquedas por la utilidad grep para buscar un patrón específico en un archivo o grupo de archivos
+
 
 
 ## Status = Depreciado
