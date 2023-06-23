@@ -23,20 +23,21 @@ Se debe realizar consultas por consola para realizar busquedas por la utilidad g
 
 
 
-## Context
+## Contexto
 
 El sistema Customer Support Portal (CSP) es un proveedor de servicios de hosting para emails, en el cual los usuarios pueden alquilar servidores de email. Cuando un usuario tiene un problema (por ej., no recibe emails), puede llamar al área de Atención al Cliente para que lo ayude a diagnosticar el problema. Uno de los puntos de venta de la empresa son los Representantes de Servicio al Cliente (CSR), que son personal técnico abocado a realizar soporte al cliente.
 
 Se debe habilitar una forma de poder consultar estos logs para que los CSR puedan solucionar o atender los diferentes issues reportados por los clientes.
 
 
-## Consequences
-### Positive
+## Consecuencias
+### Positivas
 
-las consultas se realizan en tiempo real.
-el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena.
+Rapida Implementacion
+Las consultas se realizan en tiempo real.
+El tiempo de respuesta de la utilidad grep en grandes archivos es muy buena.
 
-### Negatives
+### Negativas
 
 El equipo CSR tendra accesos a los servidores de Correo
 El equipo CSR tendra acceso a la informacion confidencial de los servidores de correo.
