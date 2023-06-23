@@ -18,6 +18,8 @@ La organizacion tiene la necesidad de consultar logs a los servidores de correo 
 
 ## Context
 
+Cuando un cliente tiene un incidente llama a la mesa de 
+
 
 
 ## Consequences
