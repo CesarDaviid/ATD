@@ -32,4 +32,11 @@ Se debe habilitar una forma de poder consultar estos logs para que los CSR pueda
 
 ## Consequences
 ### Positive
+
+las consultas se realizan en tiempo real.
+el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena.
+
 ### Negatives
+
+El equipo CSR tendra accesos a los servidores de Correo
+El equipo CSR 
