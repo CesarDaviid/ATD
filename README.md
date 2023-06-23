@@ -2,13 +2,13 @@
 
 Mail Server Customer Support System
 
-#Status
+##Status
 
 
-#Context
+##Context
 
 
 
-#Consequences
-Positive
-Negatives
+##Consequences
+###Positive
+###Negatives
