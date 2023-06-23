@@ -39,4 +39,4 @@ el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena.
 ### Negatives
 
 El equipo CSR tendra accesos a los servidores de Correo
-El equipo CSR 
+El equipo CSR tendra acceso a la informacion confidencial de los servidores de correo.
