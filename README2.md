@@ -1,5 +1,5 @@
 
-# Get Logs for Mail Server Customer Support System v1
+# Get Logs for Mail Server Customer Support System v2
 
 La organizacion tiene la necesidad de consultar logs a los servidores de correo de una forma segura y de rapida implementacion, estos servidores son en plataforma Linux.
 
@@ -19,7 +19,7 @@ Se debe realizar consultas por consola para realizar busquedas por la utilidad g
 
 
 
-## Status = Depreciado
+## Status = Aprovado
 
 
 
