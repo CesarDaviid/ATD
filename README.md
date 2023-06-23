@@ -2,7 +2,7 @@
 
 Mail Server Customer Support System
 
-## Status
+## Status = Depreciado
 
 
 ## Context
