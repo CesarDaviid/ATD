@@ -10,7 +10,7 @@ La organizacion tiene la necesidad de consultar logs a los servidores de correo 
 
 ### Tipo Conexion:
 
-Se determino que el tipo de acceso se realizaria de forma directa a los servidores mediante ssh.
+Se determino que el producto logstash recopile, parse y transforme los logs,los cuales seran enviados a Elasticsearch que es un motor de búsqueda y analítica distribuido, gratuito y abierto para todos los tipos de datos, incluidos textuales, numéricos, geoespaciales, estructurados y no estructurados y con Kibana que es una aplicación de frontend gratuita y abierta que se encuentra sobre el Elastic Stack y proporciona capacidades de visualización de datos y de búsqueda para los datos indexados en Elasticsearch se podran visualizar todos los logs.
 
 ### Forma de Consulta
 
