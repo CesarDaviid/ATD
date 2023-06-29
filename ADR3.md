@@ -14,11 +14,10 @@ Se determino que el producto logstash recopile, parse y transforme los logs,los 
 
 ### Forma de Consulta
 
-Se debe realizar consultas por consola para realizar busquedas por la utilidad grep para buscar un patrón específico en un archivo o grupo de archivos
+Kibana permitira visualizar y explorar datos que se encuentran indexados en Elasticsearch.
 
 
-
-## Status = Aprovado
+## Status = To Be
 
 
 
