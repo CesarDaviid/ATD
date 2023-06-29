@@ -16,6 +16,9 @@ Se determino que el producto logstash recopile, parse y transforme los logs,los 
 
 Kibana permitira visualizar y explorar datos que se encuentran indexados en Elasticsearch.
 
+![image](https://github.com/CesarDaviid/ATD/assets/4713423/aa5d69a8-c965-4638-91d6-7ec216a9b26c)
+
+
 
 ## Status = To Be
 
