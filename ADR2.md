@@ -37,9 +37,12 @@ Motor DB SQL
 ### Positive
 
 *Performance
-De forma predeterminada el envio de los logs al servidor central ayuda a que la informacion sea confidencial
-el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena. 
+Las consultas en SQL si se encuentran bien optimizadas asi mismo como su estructural relacional, los tiempos de respuesta son muy buenos.
 *Seguridad
+**De forma predeterminada el envio de los logs al servidor central mejora el atributo de seguridad.
+**El motor de base de datos permite segmente usuarios y roles que tengan acceso a la informacion.
+
+
 *Usabilidad
 *Escalabilidad
 
