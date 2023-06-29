@@ -43,17 +43,16 @@ Las consultas en SQL si se encuentran bien optimizadas asi mismo como su estruct
 ** El motor de base de datos permite segmente usuarios y roles que tengan acceso a la informacion.
 
 
-*Usabilidad
-*Escalabilidad
+*
+*
 
 
 ### Negatives
 
-El equipo CSR tendra accesos a los servidores de Correo
-El equipo CSR 
-*Performance
-*Seguridad se debe aumentar los protocolos web
-*Usabilidad no tiene afectación 
-*Escalabilidad
-  Dependencia a modor de DB
-  Asociado a la demanda del negocio
+* Usabilidad
+** El equipo CSR tendra que entender y realizar consultas en SQL en profundidad.
+* Escalabilidad
+** Dependencia del performance del motor de base de datos.
+** Problemas de escabilidad al aumentar la cantidad de servidores que atiende el servicio de correos.
+** Al aumentar la cantidad de logs almacenados en una bd relacional los recursos de esta base tambien deben crecer.
+  
