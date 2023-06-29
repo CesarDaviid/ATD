@@ -36,11 +36,13 @@ Se debe habilitar una forma de poder consultar estos logs para que los CSR pueda
 ### Positive
 
 *Performance
-Alto rendimiento, todos los componentes 
-el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena. 
+Alto rendimiento, todos los componentes son nativos en nube y proporcianan de forma nativo alta escalabilidad
 *Seguridad
+Todos los productos tienen multiples forma de abordad la seguridad de la informacion en transito y en reposo.
 *Usabilidad
+Los dashboard de Kibana son altamente configurables y se pueden personalizar a las necesidades puntuales del area.
 *Escalabilidad
+Al existir unn recopilacion, parseo y transformacion de los logs unica en cada servidor su escalabilidad es bastante alta.
 
 
 ### Negatives
