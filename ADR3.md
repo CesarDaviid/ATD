@@ -36,7 +36,7 @@ Se debe habilitar una forma de poder consultar estos logs para que los CSR pueda
 ### Positive
 
 *Performance
-Alto rendimiento, todos los componentes son nativos en nube y proporcianan de forma nativo alta escalabilidad
+    * Alto rendimiento, todos los componentes son nativos en nube y proporcianan de forma nativo alta escalabilidad
 *Seguridad
     * Todos los productos tienen multiples forma de abordad la seguridad de la informacion en transito y en reposo.
 *Usabilidad
