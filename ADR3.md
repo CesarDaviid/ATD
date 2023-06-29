@@ -1,4 +1,3 @@
-
 # Get Logs for Mail Server Customer Support System v2
 
 La organizacion tiene la necesidad de consultar logs a los servidores de correo de una forma segura y de rapida implementacion, estos servidores son en plataforma Linux.
@@ -6,7 +5,7 @@ La organizacion tiene la necesidad de consultar logs a los servidores de correo 
 
 ## Decision
 
-![image](https://github.com/CesarDaviid/ATD/assets/4713423/eae6513a-78ba-4e69-8dbc-a3494c8f0752)
+![image](https://github.com/CesarDaviid/ATD/assets/4713423/333009d8-f884-482e-ab3d-224ecd32be54)
 
 ### Tipo Conexion:
 
@@ -16,7 +15,7 @@ Se determino que el producto logstash recopile, parse y transforme los logs,los 
 
 Kibana permitira visualizar y explorar datos que se encuentran indexados en Elasticsearch.
 
-![image](https://github.com/CesarDaviid/ATD/assets/4713423/aa5d69a8-c965-4638-91d6-7ec216a9b26c)
+![image](https://github.com/CesarDaviid/ATD/assets/4713423/0ba28ea4-95c5-4c3e-97dc-5e76cf0c9396)
 
 
 
