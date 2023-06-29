@@ -11,15 +11,15 @@ La organizacion tiene la necesidad de consultar logs a los servidores de correo 
 
 ### Tipo Conexion:
 
-Se determino que el tipo de acceso se realizaria de forma directa a los servidores mediante ssh.
+Se determino que los servidores enviaran cada 10 minutos los logs del servidor de correo por medio del protocolo scp a un servidor central que tomara aquellos logs y los insertara en una base de datos relacional "MySQL".
 
 ### Forma de Consulta
 
-Se debe realizar consultas por consola para realizar busquedas por la utilidad grep para buscar un patrón específico en un archivo o grupo de archivos
+Se podran enviar consultas a la base de datos por sql mediante una aplicacion web.
 
 
 
-## Status = Aprovado
+## Status = Vigente
 
 
 
@@ -29,15 +29,15 @@ Se debe realizar consultas por consola para realizar busquedas por la utilidad g
 El sistema Customer Support Portal (CSP) es un proveedor de servicios de hosting para emails, en el cual los usuarios pueden alquilar servidores de email. Cuando un usuario tiene un problema (por ej., no recibe emails), puede llamar al área de Atención al Cliente para que lo ayude a diagnosticar el problema. Uno de los puntos de venta de la empresa son los Representantes de Servicio al Cliente (CSR), que son personal técnico abocado a realizar soporte al cliente.
 
 Se debe habilitar una forma de poder consultar estos logs para que los CSR puedan solucionar o atender los diferentes issues reportados por los clientes.
-Web / http No agrega valor a la solución
-Motor DB SQL Sin afectacioón de los servicios transaccionales
+Web / http 
+Motor DB SQL
 
 
 ## Consequences
 ### Positive
 
 *Performance
-las consultas se realizan en tiempo real. 
+De forma predeterminada el envio de los logs al servidor central ayuda a que la informacion sea confidencial
 el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena. 
 *Seguridad
 *Usabilidad
