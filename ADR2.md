@@ -43,9 +43,6 @@ Las consultas en SQL si se encuentran bien optimizadas asi mismo como su estruct
 ** El motor de base de datos permite segmente usuarios y roles que tengan acceso a la informacion.
 
 
-*
-*
-
 
 ### Negatives
 
