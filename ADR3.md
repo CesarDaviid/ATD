@@ -47,11 +47,4 @@ Se debe habilitar una forma de poder consultar estos logs para que los CSR pueda
 
 ### Negatives
 
-El equipo CSR tendra accesos a los servidores de Correo
-El equipo CSR 
-*Performance
-*Seguridad se debe aumentar los protocolos web
-*Usabilidad no tiene afectación 
-*Escalabilidad
-  Dependencia a modor de DB
-  Asociado a la demanda del negocio
+* los costos de implementacion son mas alto que una solucion on-premise.
