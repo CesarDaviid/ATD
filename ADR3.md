@@ -47,4 +47,4 @@ Se debe habilitar una forma de poder consultar estos logs para que los CSR pueda
 
 ### Negatives
 
-* los costos de implementacion son mas alto que una solucion on-premise.
+* los costos de implementacion son muchos mas altos que una solucion on-premise.
