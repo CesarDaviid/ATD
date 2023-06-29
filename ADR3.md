@@ -30,15 +30,13 @@ Kibana permitira visualizar y explorar datos que se encuentran indexados en Elas
 El sistema Customer Support Portal (CSP) es un proveedor de servicios de hosting para emails, en el cual los usuarios pueden alquilar servidores de email. Cuando un usuario tiene un problema (por ej., no recibe emails), puede llamar al área de Atención al Cliente para que lo ayude a diagnosticar el problema. Uno de los puntos de venta de la empresa son los Representantes de Servicio al Cliente (CSR), que son personal técnico abocado a realizar soporte al cliente.
 
 Se debe habilitar una forma de poder consultar estos logs para que los CSR puedan solucionar o atender los diferentes issues reportados por los clientes.
-Web / http No agrega valor a la solución
-Motor DB SQL Sin afectacioón de los servicios transaccionales
 
 
 ## Consequences
 ### Positive
 
 *Performance
-las consultas se realizan en tiempo real. 
+Alto rendimiento, todos los componentes 
 el tiempo de respuesta de la utilidad grep en grandes archivos es muy buena. 
 *Seguridad
 *Usabilidad
