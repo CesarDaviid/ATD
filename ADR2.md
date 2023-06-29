@@ -47,7 +47,7 @@ Las consultas en SQL si se encuentran bien optimizadas asi mismo como su estruct
 ### Negatives
 
 * Usabilidad
-** El equipo CSR tendra que entender y realizar consultas en SQL en profundidad.
+  **El equipo CSR tendra que entender y realizar consultas en SQL en profundidad.
 * Escalabilidad
 ** Dependencia del performance del motor de base de datos.
 ** Problemas de escabilidad al aumentar la cantidad de servidores que atiende el servicio de correos.
