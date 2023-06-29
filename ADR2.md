@@ -6,8 +6,8 @@ La organizacion tiene la necesidad de consultar logs a los servidores de correo 
 
 ## Decision
 
+![image](https://github.com/CesarDaviid/ATD/assets/4713423/eeb802a5-d6f8-4d27-bec3-e45c4e8d3565)
 
-![image](https://github.com/CesarDaviid/ATD/assets/4713423/97e34820-0ea8-425f-882b-6a0683d643ab)
 
 ### Tipo Conexion:
 
